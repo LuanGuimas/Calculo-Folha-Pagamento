@@ -7,6 +7,6 @@ no curso Engenharia de Software.
 - **Spring Boot:** Framework para simplificar o desenvolvimento de aplicações Java.
 
 ## Alunos
-[Luan Guimas](https://github.com/LuanGuimas)
+[Luan Guimarães](https://github.com/LuanGuimas)
 
 [Iago Adrien](https://github.com/Miukiyn)
